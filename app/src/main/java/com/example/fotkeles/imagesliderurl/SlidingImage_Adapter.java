@@ -6,6 +6,7 @@ import android.support.v4.view.PagerAdapter;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import java.net.*;
 import android.widget.ImageView;
 
 import com.bumptech.glide.Glide;
